@@ -40,13 +40,15 @@ El programa permite al usuario:
 ```
 generador-contrasenas/
 │
-├── generador1.py              # Código principal del programa primera etapa
-├── README.md                  # Este archivo
-├── Video1.mp4                 # Video de código primera parte
-├── Video2.mp4                 # Video de código completo
-├── flujo_raptor.rap           # Diagrama de flujo elaborado en RAPTOR
-├── Protecto_final.pdf         # Informe del desarrollo del programa
-└── Generador2.py              # Código principal del programa etapa final
+├── Actividad_autonomo_2_gen_contaseña:Yessenia:Lasso.py  # Código principal del programa primera etapa
+├── Autonomo_2_gen_contraseña_Yessenia_Lasso.rap          # Diagrama de flujo elaborado en 
+├── Generador_Contraseñas_Final_Yessenia_Lasso.py         # Código principal del programa etapa final
+├── Proyecto-Final.mp4                                    # Video de código primera parte
+├── Protecto_final_Geb_Contrasenas.pdf                    # Informe del desarrollo del programa
+├── README.md                                             # Este archivo
+├── Autonomo_2_gen_contraseña_Yessenia_Lasso.rap          # Diagrama de flujo elaborado en RAPTOR
+└── visualcode-generador-contrasena-yessenia-lasso.mp4    # Video de código completo
+
 
 ```
 
